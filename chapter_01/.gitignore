@@ -1,0 +1,5 @@
+# Ignore generated files
+lexer.c
+lexer.o
+count_words.o
+count_words
